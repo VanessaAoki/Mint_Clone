@@ -1,5 +1,5 @@
-# Mint_Clone
-This project aims to clone mint.com webpage using HTML forms 
+# Mint Clone
+This project aims to clone the appereance of the mint.com webpage using HTML & CSS. 
 
 ![screenshot](./style/img/main.png)
 
@@ -19,18 +19,18 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-- Any internet browser (Firefox, Google Chrome, Opera...)
+- Any internet browser (Firefox, Google Chrome, Opera...).
 
 or 
 
-- Live Server plugin for Visual Studio Code 
+- Live Server plugin for Visual Studio Code.
 
 ### Setup #1
 
 
-1 - Download the code or copy the repository to your computer
+1 - Download the code or copy the repository to your computer;
 
-2 - Run the index.html file
+2 - Run the index.html file.
 
 
 ### Setup #2
@@ -41,7 +41,7 @@ or
 https://github.com/VanessaAoki/Mint_Clone.git
 ```
 
-2- Open the folder on VS Code, right click the index.html file and click on "Open With Live Server"
+2- Open the folder on VS Code, right click the index.html file and click on "Open With Live Server";
 
 3- Everything should be running by now. 
 
@@ -51,14 +51,14 @@ https://github.com/VanessaAoki/Mint_Clone.git
 
 👤 **Vanessa Aoki**
 
-- GitHub: [@VanessaAoki](https://github.com/VanessaAoki)
-- Twitter: [@VanessaSAoki](https://twitter.com/VanessaSAoki)
-- Linkedin: [Vanessa Aoki](https://www.linkedin.com/in/vanessasaoki/)
+- GitHub: [@VanessaAoki](https://github.com/VanessaAoki);
+- Twitter: [@VanessaSAoki](https://twitter.com/VanessaSAoki);
+- Linkedin: [Vanessa Aoki](https://www.linkedin.com/in/vanessasaoki/);
 
 👤 **Angela Cuahutle**
 
-- GitHub: [@angelacuahutle](https://github.com/angelacuahutle)
-- Twitter: [@AngelaCunaDev](https://twitter.com/AngelaCunaDev)
+- GitHub: [@angelacuahutle](https://github.com/angelacuahutle);
+- Twitter: [@AngelaCunaDev](https://twitter.com/AngelaCunaDev);
 
 ## 🤝 Contributing
 
