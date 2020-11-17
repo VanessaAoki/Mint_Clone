@@ -64,8 +64,7 @@ https://github.com/VanessaAoki/Mint_Clone.git
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page]
-(https://github.com/angelacuahutle/Mint_Clone/issues)
+Feel free to check the [issues page](https://github.com/angelacuahutle/Mint_Clone/issues).
 
 ## Show your support
 
